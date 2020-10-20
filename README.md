@@ -4,6 +4,9 @@
 <img src="Screenshot/2.png">
 <img src="Screenshot/4.png">
 <img src="Screenshot/5.png">
+<img src="Screenshot/6.png">
+<img src="Screenshot/7.png">
+<img src="Screenshot/8.png">
 <img src="Screenshot/9.png">
 <img src="Screenshot/10.png">
 <img src="Screenshot/11.png">
