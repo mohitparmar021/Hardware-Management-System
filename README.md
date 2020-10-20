@@ -1,4 +1,6 @@
 # Hardware-Management-System
+Created a web application for college which is used to manage
+the record of any hardware device
 
 <img src="Screenshot/1.png">
 <img src="Screenshot/2.png">
